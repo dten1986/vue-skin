@@ -1,0 +1,22 @@
+{
+  "name": "vue-skin",
+  "version": "1.0.0",
+  "description": "test vue app",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log(123);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dten1986/vue-skin.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "author": "dten1986",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dten1986/vue-skin/issues"
+  },
+  "homepage": "https://github.com/dten1986/vue-skin#readme"
+}
